@@ -1,5 +1,5 @@
 absl-py==0.13.0
-aiohttp==3.7.4.post0
+aiohttp==3.7.4
 alabaster==0.7.12
 -e git+git@github.com:machine-discovery/aldense.git@d060d45ac45105bfb596c6a8884967fc8e8603f9#egg=aldense
 argon2-cffi==20.1.0
@@ -12,7 +12,7 @@ bleach==3.3.0
 cachetools==4.2.2
 certifi==2021.5.30
 cffi==1.14.5
-chardet==4.0.0
+chardet==3.0.4
 cmake==3.21.2
 ConfigArgParse==1.5.2
 configparser==5.0.2
@@ -60,7 +60,7 @@ nbclient==0.5.3
 nbconvert==6.1.0
 nbformat==5.1.3
 nest-asyncio==1.5.1
-notebook==6.4.0
+notebook==6.4.1
 numpy==1.20.3
 numpy-indexed==0.3.5
 numpydoc==1.1.0
@@ -72,7 +72,7 @@ pandocfilters==1.4.3
 parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==8.3.2
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
 protobuf==3.17.3
@@ -91,7 +91,7 @@ pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytorch-lightning==1.3.0
 pytz==2021.1
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==22.1.0
 qtconsole==5.1.0
 QtPy==1.9.0
